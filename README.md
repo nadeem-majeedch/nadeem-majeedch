@@ -18,6 +18,8 @@ Focus on **applied AI**, **academic innovation**, and **open education**.
 - Generative AI & RAG Systems  
 - Computer Vision & NLP  
 - Recommender Systems  
+- Cyber Security
+- Securing AI Systems
 - EdTech & Digital Transformation
 
 ---
