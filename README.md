@@ -6,7 +6,7 @@
 
 ## 🧭 About
 
-Professor & researcher with **24+ years of academic and research experience** in  
+Professor & researcher with **25+ years of academic and research experience** in  
 📊 Data Science · 🤖 AI/ML · 🧰 Software Engineering · 🌐 Networks & Cybersecurity.  
 Focus on **applied AI**, **academic innovation**, and **open education**.
 
