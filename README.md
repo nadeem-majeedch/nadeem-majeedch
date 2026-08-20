@@ -1,6 +1,6 @@
 # 👋 Engr. Dr. Muhammad Nadeem Majeed  
 🎓 Professor of Data Science | 🧪 University of the Punjab, Lahore  
-📚 PMP | PRINCE2 Agile | ITIL | CCNA | JNCIA
+📚 PMP | PRINCE2 Agile | ITIL | CCNA | JNCIA | LSSGB
 
 ---
 
