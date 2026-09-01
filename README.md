@@ -53,7 +53,7 @@ Focus on **applied AI**, **academic innovation**, and **open education**.
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [📊 AI-Classroom](https://github.com/nadeem-majeedch/Data-Science-Learning-Studio) | An interactive Data Science learning studio | `Python`, `Pandas`, `ML`, 'Streamlit' |
+| [📊 Data-Science-Learning-Studio ](https://github.com/nadeem-majeedch/Data-Science-Learning-Studio) | An interactive Data Science learning studio | `Python`, `Pandas`, `ML`,`scikit-learn`, `plotly`, `openpyxl`, `Streamlit` |
 | [🧠 RAG-Lab](#) | Retrieval-Augmented Generation tools for academic research | `LangChain`, `LLMs` |
 | [🌍 GeoAI-Pak](#) | GeoAI projects focused on environmental monitoring | `GeoPandas`, `ML` |
 | [🧪 EdTech-Tools](#) | Tools and utilities to support digital transformation in education | `Flask`, `Python`, `AI` |
