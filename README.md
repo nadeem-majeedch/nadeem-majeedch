@@ -59,7 +59,7 @@ Focus on **applied AI**, **academic innovation**, and **open education**.
 | [🧪 EdTech-Tools](#) | Tools and utilities to support digital transformation in education | `Flask`, `Python`, `AI` |
 | [📚 Research-Scripts](#) | Reproducible scripts from published research | `Python`, `Jupyter` |
 
-*(Links above can be updated once repositories are created.)*
+
 
 ---
 
