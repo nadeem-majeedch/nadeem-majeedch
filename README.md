@@ -36,7 +36,7 @@ Focus on **applied AI**, **academic innovation**, and **open education**.
 
 ## 🧰 Skills & Tools
 
-`Python` · `Pandas` · `Scikit-learn` · `TensorFlow` · `PyTorch` · `Power BI` · `SQL` · `Git` · `Linux` · `Airflow`
+`Data Science`, `Artificial Intelligence`, `Machine Learning`, `Deep Learning`, `Generative AI`, `Cybersecurity`, `Data Analytics`, `Software Development`, `Project Management`, `Technical Leadersh`, `Python` , `Power BI` , `SQL` , `Git` , `Linux` , `Airflow`, `Cloude computing`
 
 ---
 
