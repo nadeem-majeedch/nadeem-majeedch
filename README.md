@@ -15,7 +15,8 @@ Focus on **applied AI**, **academic innovation**, and **open education**.
 ## Interests
 
 - Data Science & Machine Learning  
-- Generative AI & RAG Systems  
+- Generative AI & RAG Systems
+- Agentic AI    
 - Computer Vision & NLP  
 - Recommender Systems  
 - Cyber Security
@@ -49,6 +50,21 @@ Focus on **applied AI**, **academic innovation**, and **open education**.
 
 ---
 
+##  Important Github Pages
+- 🚀 **[DS Learning Studio](https://ds-learning-studio.streamlit.app/)** – An interactive Streamlit web application showcasing live data applications, exploratory data dashboards, and machine learning model deployments.
+- 🚀 **[Data Science & AI Cheat Sheets](https://nadeem-majeedch.github.io/Data-Science-AI-Cheat-Sheets/)** – A comprehensive collection of cheat sheets covering Machine Learning, Deep Learning, Python, and SQL.
+- 🚀 **[Object-Oriented Programming using C++](https://nadeem-majeedch.github.io/Object-Oriented-Programming-using-CPP/)** – A complete beginner-to-advanced self-study course covering modern C++ (C++17), OOP design principles, templates, and STL.
+- 🚀 **[Tools and Techniques in Data Science](https://nadeem-majeedch.github.io/Tools-and-Techniques-in-Data-Science/)** – A complete semester course covering Python, data cleaning, EDA, Machine Learning, Streamlit apps, and AI-assisted workflows (LLMs, Ollama, n8n).
+- 🚀 **[Programming Fundamentals Using C++](https://nadeem-majeedch.github.io/Programming-Fundamentals-Using-C-/)** – A beginner-to-advanced journey through programming basics, control flow, functions, arrays, memory management, and modular design.
+- 🚀 **[Software Project Management](https://nadeem-majeedch.github.io/Software-Project-Management/)** – A complete self-study course covering predictive and agile delivery, project initiation, scope, estimation, and metrics control.
+- 🚀 **[Problem Solving Course](https://nadeem-majeedch.github.io/Problem-Solving-Course/)** – A structured roadmap to analytical thinking, problem decomposition, algorithm design strategies, and foundational coding logic.
+
+
+---
+Use code with caution.Option 3: Minimalist Text LinkIf you prefer a simple, distraction-free hyperlink within your existing introductory paragraph:markdownYou can access the live tutorial site here: [Object-Oriented Programming using C++](https://nadeem-majeedch.github.io/Object-Oriented-Programming-using-CPP/).
+Use code with caution.💡 Pro-Tip for your GitHub Repository:Beyond adding it to your README, you should also add this URL to the About section of your GitHub repository page (on the right-hand sidebar). Click the gear icon (⚙️) next to "About", paste your link into the Website field, and save. This adds a dedicated link snippet directly at the top of your landing page!Would you like help structuring the rest of your README (such as adding installation guides, prerequisites, or code snippet highlights for C++)? Let me know!
+
+---
 ##  Pinned Projects
 
 | Project | Description | Tech |
