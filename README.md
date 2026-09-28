@@ -1,6 +1,6 @@
 # Engr. Dr. Muhammad Nadeem Majeed  <sup>(PMP)</sup>
  Professor of Data Science | University of the Punjab, Lahore  
- PMP | PRINCE2 Agile | ITIL | CCNA | JNCIA | LSSGB | IBM Data Engieer
+ PMP | PRINCE2 Agile | ITIL | CCNA | JNCIA | LSSGB | CEH | IBM Data Engieer 
 
 ---
 
