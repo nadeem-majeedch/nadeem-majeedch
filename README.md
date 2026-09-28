@@ -53,6 +53,7 @@ Focus on **applied AI**, **academic innovation**, and **open education**.
 ##  Important Github Pages
 - 🚀 **[DS Learning Studio](https://ds-learning-studio.streamlit.app/)** – An interactive Streamlit web application showcasing live data applications, exploratory data dashboards, and machine learning model deployments.
 - 🚀 **[Data Science & AI Cheat Sheets](https://nadeem-majeedch.github.io/Data-Science-AI-Cheat-Sheets/)** – A comprehensive collection of cheat sheets covering Machine Learning, Deep Learning, Python, and SQL.
+- 🚀 **[Git & GitHub Mastery](https://github.io)** – A comprehensive dual-level curriculum covering fundamental version control, branching and merging workflows, collaboration via Pull Requests, and Git internals.
 - 🚀 **[Object-Oriented Programming using C++](https://nadeem-majeedch.github.io/Object-Oriented-Programming-using-CPP/)** – A complete beginner-to-advanced self-study course covering modern C++ (C++17), OOP design principles, templates, and STL.
 - 🚀 **[Tools and Techniques in Data Science](https://nadeem-majeedch.github.io/Tools-and-Techniques-in-Data-Science/)** – A complete semester course covering Python, data cleaning, EDA, Machine Learning, Streamlit apps, and AI-assisted workflows (LLMs, Ollama, n8n).
 - 🚀 **[Programming Fundamentals Using C++](https://nadeem-majeedch.github.io/Programming-Fundamentals-Using-C-/)** – A beginner-to-advanced journey through programming basics, control flow, functions, arrays, memory management, and modular design.
